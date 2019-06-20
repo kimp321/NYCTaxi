@@ -1,7 +1,7 @@
 # NYCTaxi
 Model building to predict expected tip_amount using NYC Taxi data.
 
-# Links to See Published Work
+# Links to Published Work
 [Data Exploration](https://htmlpreview.github.io/?https://github.com/kimp321/NYCTaxi/blob/master/dataExploration.html)
 
 [Data Summary](https://htmlpreview.github.io/?https://github.com/kimp321/NYCTaxi/blob/master/dataSummary.html)
